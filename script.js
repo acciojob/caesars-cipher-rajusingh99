@@ -1,6 +1,6 @@
 // Your Script here.
 
-const lookup = {
+const str = {
   A: "N",
   B: "O",
   C: "P",
